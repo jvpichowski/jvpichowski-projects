@@ -1,18 +1,17 @@
-# Hi there 👋
+# jvpichowski projects
 
 Here I list most of my independent projects.
 
-<!--
-**jvpichowski-projects/jvpichowski-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, thanks for the fish!
 
-Here are some ideas to get you started:
+Back in 2015, I enjoyed a software competition at the University of Kiel.
+We needed to build an artificial intelligence that plays the board game *Hey, thanks for the fish!* against others.
+Our bot called *Breadfish* turned out to be very successful and we managed to win the finals against 400 competitors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As you can see in the [project repository](https://github.com/jvpichowski-projects/cau-software-challenge-2015-submission) we were using a highly optimized iterative deepening alpha-beta search with a unique feature set.
+
+After five years of absence, it is time to revive the project with an artificial intelligence-based on new concepts.
+Back in the days, we named our ai Breadfish after the song about [the marvellous breadfish](https://www.youtube.com/watch?v=0RpdPzJgaBw). 
+Now it is time to go to the next step and build the [Marvellous Breadfish AI](https://github.com/jvpichowski-projects/marvellous-breadfish-ai).
+
+Of course, I need to rebuild the [game server](https://github.com/jvpichowski-projects/hey-thanks-for-the-fish-server) because the competition servers went offline a long time ago.
