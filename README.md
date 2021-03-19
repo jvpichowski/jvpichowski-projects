@@ -13,5 +13,6 @@ As you can see in the [project repository](https://github.com/jvpichowski-projec
 After five years of absence, it is time to revive the project with an artificial intelligence-based on new concepts.
 Back in the days, we named our ai Breadfish after the song about [the marvellous breadfish](https://www.youtube.com/watch?v=0RpdPzJgaBw). 
 Now it is time to go to the next step and build the [Marvellous Breadfish AI](https://github.com/jvpichowski-projects/marvellous-breadfish-ai).
+Stay tuned for a new attempt on fishing on ice floes.
 
 Of course, I need to rebuild the [game server](https://github.com/jvpichowski-projects/hey-thanks-for-the-fish-server) because the competition servers went offline a long time ago.
