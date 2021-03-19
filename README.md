@@ -16,3 +16,7 @@ Now it is time to go to the next step and build the [Marvellous Breadfish AI](ht
 Stay tuned for a new attempt on fishing on ice floes.
 
 Of course, I need to rebuild the [game server](https://github.com/jvpichowski-projects/hey-thanks-for-the-fish-server) because the competition servers went offline a long time ago.
+
+## There is always more
+
+I still need to prepare some of my old treasures.
